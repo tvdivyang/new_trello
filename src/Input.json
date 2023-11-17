@@ -1,0 +1,32 @@
+{
+    "typedata": [
+        {
+            "id": "1",
+            "label": "Name",
+            "type": "text"
+        },
+        {
+            "id": "2",
+            "label": "Gender",
+            "type": "radio",
+            "options": ["Male", "Female"]
+        },
+        {
+            "id": "3",
+            "label": "Hobbies",
+            "type": "checkbox",
+            "options": ["Reading", "Traveling", "Gaming"]
+        },
+        {
+            "id": "4",
+            "label": "Birthdate",
+            "type": "date"
+        },
+        {
+            "id": "5",
+            "label": "Country",
+            "type": "select",
+            "options": ["USA", "Canada", "UK"]
+        }
+    ]
+}
